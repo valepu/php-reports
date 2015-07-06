@@ -27,7 +27,7 @@
             "lib/adodb/pivottable.inc.php"
         ],
         "classmap": [
-            "vendor/jdorn/file-system-cache"
+            "../vendor/jdorn/file-system-cache"
         ]
     },
     "minimum-stability": "dev"
