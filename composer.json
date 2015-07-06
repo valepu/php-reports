@@ -23,11 +23,11 @@
     },
     "autoload": {
         "files": [
-            "/vendor/mikecao/flight/flight/Flight.php",
-            "/vendor/adodb/pivottable.inc.php"
+            "../../mikecao/flight/flight/Flight.php",
+            "../../adodb/pivottable.inc.php"
         ],
         "classmap": [
-            "/vendor/jdorn/file-system-cache"
+            "../file-system-cache"
         ]
     },
     "minimum-stability": "dev"
