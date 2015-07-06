@@ -23,7 +23,7 @@
     },
     "autoload": {
         "files": [
-            "../../adodb/pivottable.inc.php"
+            "../../adodb/adodb-php/pivottable.inc.php"
         ],
         "classmap": [
             "../file-system-cache"
