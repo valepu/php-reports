@@ -24,6 +24,6 @@
         "classmap": [
             "../file-system-cache"
         ]
-    },
-    "minimum-stability": "dev"
+    }
+    
 }
